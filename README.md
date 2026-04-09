@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ### Tiền xử lý dữ liệu
 
 ```bash
-python preprocess.py --input data/PubMed_200k_RCT/train.txt --output data
+python preprocess.py --input data/PubMed_200k_RCT/train.csv --output data
 ```
 
 ### Huấn luyện
