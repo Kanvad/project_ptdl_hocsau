@@ -1,0 +1,21 @@
+{
+  "input_files": {
+    "train": "data\\train.txt",
+    "dev": "data\\dev.txt",
+    "test": "data\\test.txt"
+  },
+  "num_examples": {
+    "train": 15000,
+    "dev": 2500,
+    "test": 2500
+  },
+  "vocab_size": 34576,
+  "num_labels": 5,
+  "max_sentences": 18,
+  "max_words": 55,
+  "min_freq": 3,
+  "tokenizer": "whitespace",
+  "lowercase": true,
+  "digit_replacement": "\\d+ -> @",
+  "ignore_label_id": -100
+}

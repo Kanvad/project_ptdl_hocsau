@@ -1,0 +1,7 @@
+{
+  "BACKGROUND": 0,
+  "CONCLUSIONS": 1,
+  "METHODS": 2,
+  "OBJECTIVE": 3,
+  "RESULTS": 4
+}
