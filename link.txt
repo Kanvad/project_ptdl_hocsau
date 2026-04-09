@@ -1,0 +1,8 @@
+scibert
+    paper: https://arxiv.org/abs/1903.10676
+    pdf: https://arxiv.org/pdf/1903.10676
+
+model: https://huggingface.co/allenai/scibert_scivocab_uncased
+
+kaggle dataset: https://www.kaggle.com/datasets/matthewjansen/pubmed-200k-rtc
+
